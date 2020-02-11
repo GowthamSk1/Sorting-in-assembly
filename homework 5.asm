@@ -1,5 +1,3 @@
-# GOWTHAM CS 3340 
-
 .data
 filename: .asciiz "input.txt"   	# filename
 spaceForNumbers: .space 80		# space to store the numbers which are read
